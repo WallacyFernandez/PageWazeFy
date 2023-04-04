@@ -1,0 +1,207 @@
+#R {
+
+    font-size: 7px;
+    position: absolute;
+    top: 0.35rem;
+    left: 5.25rem;
+
+}
+
+
+
+#Img {
+
+
+
+    max-width: 7rem;
+    max-height: 2.8rem;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 2.2rem;
+    left: 1.05rem;
+}
+
+.sidebar {
+
+    float: left;
+    width: 280px;
+    padding: 7px 7px;
+    height: 110%;
+    overflow-y: auto;
+    background-color: rgb(0, 0, 0);
+    overflow-x: hidden;
+    position: fixed;
+    margin-top: -20px;
+
+}
+
+.sidebar- {
+    padding-bottom: 140px;
+}
+
+.sidebar__menu {
+
+    font-style: impact;
+    margin: 14px;
+    color: rgb((190), 190, 190);
+    position: absolute;
+    top: 84px;
+    left: 9.1px;
+    font-size: 18px;
+
+}
+
+
+.sidebar__logo img {
+    max-width: 175px;
+    width: 70%;
+}
+
+
+#text {
+
+    float: right;
+    width: 4.2rem;
+    margin-top: 0.35rem;
+    margin-left: 1.05rem;
+    font-size: 0.98rem;  
+    
+  
+    
+}
+
+#text2 {
+
+    float: right;
+    width: 7,7rem;
+    margin-top: 0.35rem;
+    margin-left: 1.05rem;
+    font-size: 0.98rem;  
+    
+   
+    
+}
+
+i{
+
+    
+    width: 1.4rem;
+    display: left;
+
+}
+
+
+
+.sidebar__menu a {
+
+    color: rgb(118, 118, 118);
+    text-decoration: none;
+    display: flex;
+    padding: 7px;
+    cursor: pointer;
+    width: 7.7rem;
+    align-items: center;
+    font-weight: bold;
+    text-align: left;
+    
+    
+}
+
+
+.sidebar__anexo {
+
+    font-style: impact;
+    margin: 14px;
+    color: rgb((190), 190, 190);
+    position: absolute;
+    top: 9rem;
+    left: -10px;
+    font-size: 21px;
+
+}
+
+.sidebar__anexo a{
+
+   
+    
+   
+    color: rgb(118, 118, 118);
+    text-decoration: none;
+    display: flex;
+    padding: 2.1px;
+    cursor: pointer;
+    width: 10.22rem;
+    align-items: center;
+    font-weight: bold;
+    text-align: left;
+    
+    
+    
+}
+
+
+
+.sidebar__menu a:hover {
+
+    color: #fff;
+
+}
+
+.sidebar__anexo a:hover {
+
+    color: #fff;
+
+}
+
+p {
+    font-size: 14px;
+}
+
+.sidebar__menu a.sidebar__menu__selecionado {
+    color: white;
+    background-color: rgb(80, 80, 80);
+    border-radius: 3.5px;
+}
+
+.sidebar__anexo2 a{
+
+    color: rgb(118, 118, 118);
+    font-size: 0.84rem;
+    margin-top: 16.1rem;
+    width:3.5rem;
+}
+
+.sidebar__anexo2 a:hover {
+
+    color: rgb(118, 118, 118);
+    text-decoration: underline;
+    
+
+}
+
+
+
+.button a{
+
+    color: rgba(255, 255, 255, 0.469);
+    margin-top: 1rem;
+    width: 11.5rem;
+    
+    border-radius: 30px;
+    border: 2px solid rgba(255, 255, 255, 0.408);
+    font-size: 1rem;
+    margin-left: 1rem;
+}
+
+
+#portu{
+    
+    float: right;
+    width: 14rem;
+    margin-left: 0.3rem;
+    font-size: 1rem; 
+   
+    
+}
+
