@@ -3,7 +3,7 @@
  Réplica da página do Spotify
 este repositório contém a réplica da página principal do Spotify, desenvolvida por três alunos como um projeto para praticar seus conhecimentos em HTML, CSS e JavaScript. Neste arquivo README.md, você encontrará as informações sobre como acessar a página replicada e como rodar o projeto localmente.
 
-## Acesso à página replicada
+## Acesso a página replicada
 A página replicada pode ser acessada através deste link: https://wallacyfernandez.github.io/PageWazeFy/
 
 ## Rodando o projeto localmente
